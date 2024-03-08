@@ -1,4 +1,4 @@
-package org.example.Curd.PostMethod;
+package org.example.Bpdemo.PostMethod.PostMethod;
 
 import io.restassured.RestAssured;
 import io.restassured.http.ContentType;
